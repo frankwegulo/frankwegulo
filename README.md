@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 🎨 Portfolio: https://frankwegulo.netlify.app/
 💼 LinkedIn: https://www.linkedin.com/in/frankwegulo/
 💬 Twitter: https://twitter.com/frankwegulo
+⚡ Fun fact: I am an Introverted extrovert!
