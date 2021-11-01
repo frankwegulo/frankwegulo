@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Frankline Wegulo 👋
 
 <!--
 **frankwegulo/frankwegulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔥 Software Developer grinding hard to make something cool
+✨ Favorite Tech: Laravel, NodeJS, Python, VueJS ...
+📓 I’m currently learning Data Science and Business Intelligence... 😭
+📧 frankwegulo@gmail.com
+🎨 Portfolio: https://frankwegulo.netlify.app/
+💼 LinkedIn: https://www.linkedin.com/in/frankwegulo/
+💬 Twitter: https://twitter.com/frankwegulo
