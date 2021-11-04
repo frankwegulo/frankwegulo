@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ✨ Favorite Tech: Laravel, NodeJS, Python, VueJS ...
 📓 I’m currently learning Data Science and Business Intelligence ... ✨
 📧 frankwegulo@gmail.com
-🎨 Portfolio: https://frankwegulo.netlify.app/
+🎨 Portfolio: https://frankwegulo.com/
 💼 LinkedIn: https://www.linkedin.com/in/frankwegulo/
 💬 Twitter: https://twitter.com/frankwegulo
 ⚡ Fun fact: I am an Introverted extrovert!
