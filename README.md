@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🔥 Software Developer grinding hard to make something cool
-✨ Favorite Tech: Laravel, NodeJS, Python, VueJS ...
+✨ Favorite Tech: Python, MERN, AWS, ...
 📓 I’m currently learning Data Science and Business Intelligence ... ✨
 📧 frankline@franklinetech.com
 🎨 Portfolio: https://frankwegulo.com/
