@@ -31,9 +31,8 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-🔥 Software Developer grinding hard to make something cool. Loves exploring stacks but currently using python in my exploration.
-✨ Favorite Tech: Python, MERN, AWS, ...
-📓 I’m currently learning and practicing towards being an AWS cloud practitioner and cybersecurity professional ... ✨
+🔥 Cyber Security Researcher and Consultant | Cloud DevSecOps.
+✨ Purple Team
 📧 frankline@franklinetech.com
 🎨 Portfolio: https://frankwegulo.com/
 💼 LinkedIn: https://www.linkedin.com/in/frankwegulo/
