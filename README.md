@@ -1,9 +1,3 @@
-
-<p align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C4D16AQHl3lpss2_NAA/profile-displaybackgroundimage-shrink_350_1400/0/1627373595025?e=1649894400&v=beta&t=0inBDldVA6SL5OVmvXj8xA-r4eiX5WUAU8fxGvpnLDU" style="max-width:100%;">
-</p>
-<br>
-
 ### Hi there, I am Frankline Wegulo 👋
 
 <!--
