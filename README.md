@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🔥 Cyber Security Researcher and Consultant | Cloud DevSecOps.
 ✨ Purple Team
-📧 frankline@franklinetech.com
+📧 info@franklinetech.com
 🎨 Blog : https://franklinetech.com/
 💼 LinkedIn: https://www.linkedin.com/in/frankwegulo/
 💬 Twitter: https://twitter.com/frankwegulo
