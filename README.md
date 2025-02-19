@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 🎨 Blog : https://franklinetech.com/
 💼 LinkedIn: https://www.linkedin.com/in/frankwegulo/
 💬 Twitter: https://twitter.com/frankwegulo
-⚡ Fun fact: I am an Introverted extrovert!
+- ⚡ Fun fact: I am an Introverted extrovert!
